@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chat-TCP/Chat-TCP.iml" filepath="$PROJECT_DIR$/Chat-TCP/Chat-TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/De cuong LTM.iml" filepath="$PROJECT_DIR$/De cuong LTM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTbac1-RMI/PTbac1-RMI.iml" filepath="$PROJECT_DIR$/PTbac1-RMI/PTbac1-RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thisinh/Thisinh.iml" filepath="$PROJECT_DIR$/Thisinh/Thisinh.iml" />
+    </modules>
+  </component>
+</project>
